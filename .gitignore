@@ -1,1 +1,15 @@
-build
+*.a
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+Code/Projects/Eld/Eldritch
+Code/Tools/Checksum/Checksum
+Code/Tools/ConfigCompiler/ConfigCompiler
+Code/Tools/FilePacker/FilePacker
+Code/Tools/MeshCompiler/MeshCompiler
+
+Code/Projects/Eld/*.cpk
+
+eld-log.txt
